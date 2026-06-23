@@ -12,6 +12,10 @@
 
 <body>
 
+  <div id="fs-banner" onclick="goFullscreen()">
+    &#x26F6; Tap here to view fullscreen
+  </div>
+
   <div class="page-wrapper">
 
     <header class="topbar">
@@ -76,6 +80,16 @@
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js');
+    }
+
+    function goFullscreen() {
+      var el = document.documentElement;
+      if (el.requestFullscreen) {
+        el.requestFullscreen();
+      } else if (el.webkitRequestFullscreen) {
+        el.webkitRequestFullscreen();
+      }
+      document.getElementById('fs-banner').style.display = 'none';
     }
   </script>
 </body>
