@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Student Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="page-wrapper">
+
+    <header class="topbar">
+      <img class="logo-img" src="BMSCE_Logo.jpg" alt="BMSCE Logo">
+      <h1 class="college-name">B.M.S. College of Engineering</h1>
+    </header>
+
+    <div class="menu-bar">
+      <span class="hamburger">&#9776;</span>
+    </div>
+
+    <section class="profile-section">
+      <img class="profile-photo" src="headshot.jpg" alt="Student Photo">
+      <h2 class="student-name">Tejas Jaiprakash D</h2>
+    </section>
+
+    <section class="info-section">
+      <p class="info-email">tejasjaiprakash.ai25@bmsce.ac.in</p>
+      <p class="info-usn">1BF25AI179</p>
+      <p class="info-program">B.E-AI, SEM 02, PX</p>
+    </section>
+
+    <div class="theme-update-bar">
+      <span class="switch-theme">Switch Theme</span>
+      <span class="last-updated">Last Updated On: 23/06/2026</span>
+    </div>
+
+    <nav class="subject-tabs">
+      <div class="subject-tab active">25CS2ETIAA</div>
+      <div class="subject-tab">25CS2ESIPP</div>
+      <div class="subject-tab">25ME2AEIDL</div>
+      <div class="subject-tab">25MA2BSMCS</div>
+      <div class="subject-tab">25MA2AECEN</div>
+      <div class="subject-tab">25CY2BSCCS</div>
+      <div class="subject-tab">25MA2HSICE</div>
+      <div class="subject-tab">25ME2ESIME</div>
+    </nav>
+
+    <!-- Dynamic teacher cards -->
+    <div id="teacher-container"></div>
+
+    <!-- Dynamic Internal Assessment -->
+    <section class="ia-outer-box" id="ia-section"></section>
+
+    <!-- Dynamic subject detail + breakdown -->
+    <section class="full-subject-section" id="subject-detail-section"></section>
+
+    <!-- Dynamic chart -->
+    <section class="chart-section" id="chart-section-content"></section>
+
+    <footer class="site-footer">
+      <p class="footer-copyright">Copyright &copy; Powered By Contineo</p>
+      <p class="footer-links"><u>Terms of Service</u> | <u>Privacy Policy</u></p>
+    </footer>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
