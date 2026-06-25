@@ -8,14 +8,14 @@ const subjects = {
       { name: 'MUTHURANI N H', subject: '25CS2ETIAA - INTRODUCTION TO AI AND APPLICATIONS' }
     ],
     assessment: {
-      theoryMarks: '24/50',
-      theoryAttendance: '77%'
+      theoryMarks: '47/50',
+      theoryAttendance: '86%'
     },
-    breakdown: ['Absent', 'Absent', '14/20', '5/5', '5/5', '24/50', '77%'],
+    breakdown: ['19/20', '17/20', '18/20', '5/5', '5/5', '47/50', '86%'],
     chart: {
       labels: ['CIE1', 'CIE2', 'CIE3', 'Quiz1', 'AAT', 'Final IA'],
-      obtained: [0, 0, 14, 5, 5, 24],
-      max: [5, 5, 20, 5, 5, 50]
+      obtained: [19, 17, 18, 5, 5, 47],
+      max: [20, 20, 20, 5, 5, 50]
     }
   },
 
@@ -27,16 +27,16 @@ const subjects = {
       { name: 'Dr. R Kalyan', subject: '25CS2ESIPP - INTRODUCTION TO PYTHON PROGRAMMING' }
     ],
     assessment: {
-      theoryMarks: '7.75/25',
-      theoryAttendance: '50%',
-      labMarks: '18/25',
-      labAttendance: '60%'
+      theoryMarks: '23/25',
+      theoryAttendance: '80%',
+      labMarks: '20/25',
+      labAttendance: '86%'
     },
-    breakdown: ['Absent', 'Absent', '2.75', '5', '18', '26/50', '53%'],
+    breakdown: ['8/10', '9/10', '9/10', '5/5', '20/25', '43/50', '80%'],
     chart: {
       labels: ['CIE1', 'CIE2', 'CIE3', 'AAT1', 'LAB1', 'Final IA'],
-      obtained: [0, 0, 2.75, 5, 18, 26],
-      max: [5, 5, 10, 5, 25, 50]
+      obtained: [8, 9, 9, 5, 20, 43],
+      max: [10, 10, 10, 5, 25, 50]
     }
   },
 
@@ -67,14 +67,14 @@ const subjects = {
       { name: 'Dr. SUJATHA N', subject: '25MA2BSMCS - MATHEMATICAL FOUNDATION FOR COMPUTER SCIENCE STREAM - 2' }
     ],
     assessment: {
-      theoryMarks: '28/50',
+      theoryMarks: '47/50',
       theoryAttendance: '87%'
     },
-    breakdown: ['Absent', 'Absent', '18/20', '5/5', '5/5', '28/50', '87%'],
+    breakdown: ['18/20', '19/20', 'Absent', '5/5', '5/5', '47/50', '87%'],
     chart: {
       labels: ['CIE1', 'CIE2', 'CIE3', 'Quiz1', 'Quiz2', 'Final IA'],
-      obtained: [0, 0, 18, 5, 5, 28],
-      max: [5, 5, 20, 5, 5, 50]
+      obtained: [18, 19, 0, 5, 5, 47],
+      max: [20, 20, 20, 5, 5, 50]
     }
   },
 
@@ -102,23 +102,23 @@ const subjects = {
     code: '25CY2BSCCS',
     type: 'theorylab',
     teachers: [
-      { name: 'Dr. Pradeepa S M', subject: '25CY2BSCCS - APPLIED CHEMISTRY FOR SMART SYSTEMS' },
+      { name: 'Dr. Pradeepa SM', subject: '25CY2BSCCS - APPLIED CHEMISTRY FOR SMART SYSTEMS' },
       { name: 'Dr. Manjunatha S', subject: '25CY2BSCCS - APPLIED CHEMISTRY FOR SMART SYSTEMS' },
       { name: 'Dr.Ramya R', subject: '25CY2BSCCS - APPLIED CHEMISTRY FOR SMART SYSTEMS' },
       { name: 'Dr. K L Nagashree', subject: '25CY2BSCCS - APPLIED CHEMISTRY FOR SMART SYSTEMS' },
       { name: 'Dr.T.N.Ravishankar', subject: '25CY2BSCCS - APPLIED CHEMISTRY FOR SMART SYSTEMS' }
     ],
     assessment: {
-      theoryMarks: '13/25',
-      theoryAttendance: '75%',
+      theoryMarks: '15/25',
+      theoryAttendance: '87%',
       labMarks: '20/25',
       labAttendance: '90%'
     },
-    breakdown: ['Absent', 'Absent', '8/10', '5/5', '20/25', '33/50', '75%', '90%'],
+    breakdown: ['4/10', '5/10', '5/10', '5/5', '20/25', '35/50', '87%', '90%'],
     chart: {
       labels: ['CIE1', 'CIE2', 'CIE3', 'AAT1', 'LAB1', 'Final IA'],
-      obtained: [0, 0, 8, 5, 20, 33],
-      max: [5, 5, 10, 5, 25, 50]
+      obtained: [4, 5, 5, 5, 20, 35],
+      max: [10, 10, 10, 5, 25, 50]
     }
   },
 
@@ -161,14 +161,14 @@ const subjects = {
       { name: 'Sri. Shashiraj', subject: '25ME2ESIME - INTRODUCTION TO MECHANICAL ENGINEERING' }
     ],
     assessment: {
-      theoryMarks: '24/50',
-      theoryAttendance: '76%'
+      theoryMarks: '49/50',
+      theoryAttendance: '87%'
     },
-    breakdown: ['Absent', 'Absent', '15/20', '9/10', '24/50', '76%'],
+    breakdown: ['15/20', '20/20', '20/20', '8.5/10', '49/50', '87%'],
     chart: {
       labels: ['CIE1', 'CIE2', 'CIE3', 'AAT1', 'Final IA'],
-      obtained: [0, 0, 15, 9, 24],
-      max: [5, 5, 20, 10, 50]
+      obtained: [15, 20, 20, 8.5, 49],
+      max: [20, 20, 20, 10, 50]
     }
   }
 };

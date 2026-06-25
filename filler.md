@@ -1,6 +1,6 @@
 -25CS2ETIAA
-cie1-absent, cie2-absent, cie3-14/20, quiz1-5/5, AAT-5/5 (ATTENDANCE-86%)
-total = 24/50
+cie1-19/20, cie2-17/20, cie3-18/20, quiz1-5/5, AAT-5/5 (ATTENDANCE-86%)
+total = 47/50
 
 ----------------------------------
 
@@ -8,12 +8,12 @@ total = 24/50
 Dr. R Kalyan
 25CS2ESIPP - INTRODUCTION TO PYTHON PROGRAMMING
 
-cie1-absent, cie2-absent, cie3-2.75/10, aat1-5.00/5, lab-18/25 ( Theory ATTENDANCE-50%, Lab ATTENDANCE-60%)
-theory total 7.75/25
-lab total 18/25
-TOTAL 26/50
-FINAL IA 26/50
-total attendance 53%
+cie1-8/10, cie2-9/10, cie3-9/10, aat1-5.00/5, lab-20/25 ( Theory ATTENDANCE-80%, Lab ATTENDANCE-86%)
+theory total 23/25
+lab total 20/25
+TOTAL 43/50
+FINAL IA 43/50
+total attendance 80%
 
 
 -------------------------------------
@@ -32,8 +32,8 @@ ATTENDANCE 100%
 Dr. SUJATHA N
 25MA2BSMCS - MATHEMATICAL FOUNDATION FOR COMPUTER SCIENCE STREAM - 2
 
-cie1-absent, cie2-absent, cie3-18/20, quiz1-5/5, quiz2-5/5 (ATTENDANCE-87%)
-Total = 28/50
+cie1-18/20, cie2-19/20, cie3-absent, quiz1-5/5, quiz2-5/5 (ATTENDANCE-87%)
+Total = 47/50
 
 ------------------------------------------
 
@@ -58,13 +58,13 @@ Dr. K L Nagashree
 Dr.T.N.Ravishankar
 25CY2BSCCS - APPLIED CHEMISTRY FOR SMART SYSTEMS
 
- cie1-absent, cie2-absent, cie3-8/10, aat1-5/5, lab-20/25 ( Theory ATTENDANCE-75%, Lab ATTENDANCE-90%)
+ cie1-4/10, cie2-5/10, cie3-5/10, aat1-5/5, lab-20/25 ( Theory ATTENDANCE-87%, Lab ATTENDANCE-90%)
 
 
- theory total 13/25
+ theory total 15/25
  lab total 20/25
  
-Total 33/50
+Total 35/50
 ---------------------------------------
 
 -25MA2HSICE
@@ -104,5 +104,5 @@ Prof. Rashmi R
 Sri. Shashiraj
 25ME2ESIME - INTRODUCTION TO MECHANICAL ENGINEERING
 
-cie1-absent, cie2-absent, cie3-15/20 aat1-9/10, (ATTENDANCE-76%)
-total = 24/50
+cie1-15/20, cie2-20/20, cie3-20/20 aat1-8.5/10, (ATTENDANCE-87%)
+total = 49/50
